@@ -1,0 +1,1 @@
+{"name":"Iphone 5","price":5000,"stock":25}
