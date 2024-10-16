@@ -1,0 +1,19 @@
+{
+  "name": "06---servidores-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server-express.js",
+    "dev": "node --watch server-express.js",
+    "start:http": "node server-http.js",
+    "dev:http": "node --watch server-http.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
